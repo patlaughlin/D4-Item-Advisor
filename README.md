@@ -1,5 +1,8 @@
 # Getting Started
 
+- Copy .env.sample and rename it to .env
+- Fill in your OpenAI api key
+
 ```bash
 npm install
 node main (start the script)
