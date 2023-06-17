@@ -11,10 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
     "commander": "^11.0.0",
     "dotenv": "^16.3.0",
+    "keypress": "^0.2.1",
     "mustache": "^4.2.0",
+    "node-global-key-listener": "^0.1.1",
     "openai": "^3.3.0",
+    "rxjs": "^7.8.1",
     "screenshot-desktop": "^1.14.0",
     "tesseract.js": "^4.1.0"
   },

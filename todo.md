@@ -1,1 +1,4 @@
+- [] add a debug mode
+    - should output what its going to send to gpt
+    - should log somehow the screenshot it took?
 - [] convert to an electron app so we can just run this on hotkey
