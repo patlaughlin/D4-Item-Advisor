@@ -1,0 +1,23 @@
+{
+  "name": "d4-upgrade-determiner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.0",
+    "mustache": "^4.2.0",
+    "openai": "^3.3.0",
+    "screenshot-desktop": "^1.14.0",
+    "tesseract.js": "^4.1.0"
+  },
+  "devDependencies": {
+    "electron": "^25.1.1"
+  }
+}
